@@ -187,7 +187,7 @@
                 <version>2.3.1</version>
                 <configuration>
                     <outputDirectory>${standalone.classpath}</outputDirectory>
-                    <finalName>${project.artifactId}-${version}</finalName>
+                    <finalName>${project.artifactId}-${project.version}</finalName>
                 </configuration>
             </plugin>
 
